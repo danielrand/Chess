@@ -4,6 +4,7 @@ I had very little experience with java graphics so I hard coded everything, incl
 Very Buggy.
 
 # How to play
+Run NewChessGame.java
 White goes first.
 Click on a piece you'd like to move and then click on the square you like to move to. 
 You will be prevented from performing illegal moves.
